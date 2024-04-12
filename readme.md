@@ -1,3 +1,3 @@
-#Equinox Banking System 
+# Equinox Banking System 
 
 Collaboration testing
